@@ -1,0 +1,30 @@
+# ==== ENTORNO VIRTUAL ====
+ARTO/
+ARTO/Lib/
+ARTO/Scripts/
+ARTO/Include/
+ARTO/pyvenv.cfg
+
+# ==== ARCHIVOS PYTHON ====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ==== ARCHIVOS TEMPORALES ====
+*.log
+*.tmp
+*.bak
+
+# ==== SISTEMA ====
+.DS_Store
+Thumbs.db
+
+# ==== CONFIGURACIÓN DE IDEs ====
+.vscode/
+.idea/
+*.code-workspace
+
+# ==== OTROS ====
+.env
+*.sqlite3
