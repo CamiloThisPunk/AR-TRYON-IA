@@ -2,16 +2,21 @@ AR Mirror - Python (Real-time)
 
 
 Requisitos:
-- Python 3.8+
-- venv (recomendado)
+- Python 3.11.5
+
+CREAR EL SIGUIENTE ENTORNO VIRTUAL ARTO
+- ARTO (recomendado) 
 
 
 Instalación:
-python -m venv venv
+python -m venv ARTO
 # Windows
-venv\Scripts\activate
+ARTO\Scripts\activate
+
 # Linux / Mac
 source venv/bin/activate
+
+
 pip install -r requirements.txt
 
 
